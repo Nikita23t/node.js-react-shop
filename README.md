@@ -1,1 +1,3 @@
-# node.js-react-shop
+# node.js-react-shop 
+
+временно без реакта
